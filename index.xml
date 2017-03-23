@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>马钰璐的主页</title>
+    <link>https://mayulu.github.io/index.xml</link>
+    <description>Recent content on 马钰璐的主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://mayulu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
